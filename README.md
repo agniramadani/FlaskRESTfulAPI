@@ -15,7 +15,7 @@ Download PostgreSQL: ``` https://www.postgresql.org/download/ ``` <br />
 
 After you have installed a database application on your computer, the next step is to create a database ex: FlaskAppDatabase
 
-Clone the RESTful API on you machine from this link: ``` https://github.com/agniramadani/Flask-RestAPI.git ```
+Clone the RESTful API on you machine from this link: ``` https://github.com/agniramadani/FlaskRESTfulAPI.git ```
 
 #### Set up virtual environment and run the project
 
