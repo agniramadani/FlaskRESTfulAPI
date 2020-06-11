@@ -129,8 +129,3 @@ Download Postman:  ``` https://www.postman.com/downloads/  ``` <br />
 ``` 
 
 - Delete Car By Id ``` http://localhost:5000/api/car/id ``` [Method DELETE]  <br />
-
-
-## Contributor
-  
- * [Agni Ramadani](https://github.com/agniramadani)
